@@ -1,4 +1,4 @@
-# Part 7
+﻿# Part 7
 
 <!--<sup><a href="#Prim1">1</a></sup>-->
 <!--![Image](/Translate/Img/p167.jpg)-->
@@ -15,7 +15,7 @@ The bell rang the majestic 3 o’clock melody.
 
 "W-what is it?"
 
-"No...... Я just thought that you often used to say such a thing in the past."
+"No...... Я just thought that you often used to say such a thinge
 
 Асуна understood that the words he said with a bitter smile were not about the time they started to live in this world, but rather about the real world. She sat on the chair next to him и returned the smile.
 
